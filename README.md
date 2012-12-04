@@ -4,17 +4,39 @@ jpGraphDemo
 Demostraciones de la libreria jpGraph
 
 Contiene ocho demostraciones del uso de la librería jpGraph, que se corresponden
-con varios artículos del blog relacionados con esta librería:
+con varios artículos del blog relacionados con esta librería. Se ha utilizado la
+versión 1.27.1 de la librería jpGraph (http://jpgraph.net), requiere versión
+4.3.1 o superior de PHP.
 
+
+Artículos
+=========
 
 Gráficos en PHP con JpGraph. Parte I
+------------------------------------
+
 http://mjcarrascosa.com/graficos-en-php-con-jpgraph-parte-i/
 
+* demo1.php
+* demo2.php
+* demo3.php
+
 Gráficos en PHP con JpGraph. Parte II
+-------------------------------------
+
 http://mjcarrascosa.com/graficos-en-php-con-jpgraph-parte-ii/
 
+* demo4.php
+* demo5.php
+* demo6.php
+
 Gráficos en PHP con JpGraph. Parte III
+--------------------------------------
+
 http://mjcarrascosa.com/graficos-en-php-con-jpgraph-parte-iii/
+
+* demo7.php
+* demo8.php
 
 LICENSE
 =======
